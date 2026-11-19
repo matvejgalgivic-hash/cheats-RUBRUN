@@ -1,0 +1,41 @@
+16:38:47 admin=False
+16:38:48 patch: Verify neutralized at 0x7A50
+16:38:48 patch: VerifyEnvelope neutralized at 0x7AC4
+16:38:48 patch: ValidateDigest neutralized at 0x7F00
+16:38:48 loaded Loader, Version=1.0.6.0, Culture=neutral, PublicKeyToken=null
+16:38:48 servers was: https://95.85.230.17, https://138.124.40.179
+16:38:48 servers set: http://127.0.0.1:8765
+16:38:48 calling Api.Authenticate
+16:38:48 auth: dict count=15
+16:38:48   ok = True
+16:38:48   data = System.Collections.Generic.Dictionary`2[System.String,System.Object]
+16:38:48   key = LOCAL-0000-0000-0000-0000
+16:38:48   key_remembered = True
+16:38:48   key_masked = LOCA-****-****-0000
+16:38:48   lifetime = True
+16:38:48   days = 27375
+16:38:48   expires_at = 4102444800
+16:38:48   server_time = 1795095528
+16:38:48   created_at = 1795009128
+16:38:48   plan = lifetime
+16:38:48   plan_name = lifetime
+16:38:48   hwid_resets = 999
+16:38:48   games = System.Object[]
+16:38:48   user = System.Collections.Generic.Dictionary`2[System.String,System.Object]
+16:38:48 me: dict count=16
+16:38:48   ok = True
+16:38:48   data = System.Collections.Generic.Dictionary`2[System.String,System.Object]
+16:38:48   key = LOCAL-0000-0000-0000-0000
+16:38:48   key_remembered = True
+16:38:48   key_masked = LOCA-****-****-0000
+16:38:48   lifetime = True
+16:38:48   days = 27375
+16:38:48   expires_at = 4102444800
+16:38:48   server_time = 1795095528
+16:38:48   created_at = 1795009128
+16:38:48   plan = lifetime
+16:38:48   plan_name = lifetime
+16:38:48   hwid_resets = 999
+16:38:48   games = System.Object[]
+16:38:48   token = local-token-1795095528
+16:38:48   user = System.Collections.Generic.Dictionary`2[System.String,System.Object]

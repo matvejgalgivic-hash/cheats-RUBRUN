@@ -1,0 +1,47 @@
+﻿[19.11.2026 14:00:58,39] FAIL not elevated. run inject.bat (it self-elevates), not inject.ps1 directly.
+[19.11.2026 15:16:47,06] OK   elevated
+[19.11.2026 15:16:47,07] INFO ---- inject.ps1 start  vendor=https://95.85.230.17  localApi=False  timeout=150 ----
+[19.11.2026 15:16:47,09] INFO cached runtime is older than packages\1.zip - re-extracting
+[19.11.2026 15:16:47,10] INFO extracting package -> C:\Users\user\AppData\Local\Temp\RobRun_inject
+[19.11.2026 15:16:47,26] INFO runtime: C:\Users\user\AppData\Local\Temp\RobRun_inject\RobRun.exe
+[19.11.2026 15:16:47,33] INFO auth -> https://95.85.230.17
+[19.11.2026 15:16:47,76] INFO launch ticket -> https://95.85.230.17
+[19.11.2026 15:16:47,87] OK   ticket 6c0cd4585ab1... expires 1795090729
+[19.11.2026 15:16:47,89] INFO bootstrap = 253 bytes
+[19.11.2026 15:16:47,92] INFO pipe: RobRun.60693cfb8ec040beacdf35421590e8a3
+[19.11.2026 15:16:48,39] INFO runtime pid 12880, waiting for the pipe ...
+[19.11.2026 15:16:50,34] OK   runtime connected
+[19.11.2026 15:16:50,36] INFO writing bootstrap frame
+[19.11.2026 15:16:50,43] RT   initializing
+[19.11.2026 15:16:51,39] RT   initializing
+[19.11.2026 15:16:51,40] RT   waiting_game
+[19.11.2026 15:17:18,22] RT   waiting_game
+[19.11.2026 15:17:22,54] RT   initializing
+[19.11.2026 15:17:22,92] RT   ready
+[19.11.2026 15:17:22,92] OK   runtime ready (driver up, overlay server live)
+[19.11.2026 15:17:22,94] INFO game already running
+[19.11.2026 15:17:28,97] INFO verifying overlay attach ...
+[19.11.2026 15:17:30,12] OK   inject done. Insert = menu, End = unload.
+[19.11.2026 15:20:22,97] OK   elevated
+[19.11.2026 15:20:22,98] INFO ---- inject.ps1 start  vendor=https://95.85.230.17  localApi=False  timeout=150 ----
+[19.11.2026 15:20:22,99] INFO cached runtime is older than packages\1.zip - re-extracting
+[19.11.2026 15:20:23,00] INFO extracting package -> C:\Users\user\AppData\Local\Temp\RobRun_inject
+[19.11.2026 15:20:23,16] INFO runtime: C:\Users\user\AppData\Local\Temp\RobRun_inject\RobRun.exe
+[19.11.2026 15:20:23,23] INFO auth -> https://95.85.230.17
+[19.11.2026 15:20:23,67] INFO launch ticket -> https://95.85.230.17
+[19.11.2026 15:20:23,78] OK   ticket eb2e5bf9509f... expires 1795090945
+[19.11.2026 15:20:23,80] INFO bootstrap = 253 bytes
+[19.11.2026 15:20:23,82] INFO pipe: RobRun.9fd660003f8e47329d9ca1c4e9efec8c
+[19.11.2026 15:20:23,86] INFO runtime pid 15628, waiting for the pipe ...
+[19.11.2026 15:20:25,65] OK   runtime connected
+[19.11.2026 15:20:25,67] INFO writing bootstrap frame
+[19.11.2026 15:20:25,73] RT   initializing
+[19.11.2026 15:20:26,22] RT   initializing
+[19.11.2026 15:20:26,23] RT   waiting_game
+[19.11.2026 15:20:31,39] RT   waiting_game
+[19.11.2026 15:20:35,45] RT   initializing
+[19.11.2026 15:20:35,81] RT   ready
+[19.11.2026 15:20:35,81] OK   runtime ready (driver up, overlay server live)
+[19.11.2026 15:20:35,83] INFO game already running
+[19.11.2026 15:20:41,86] INFO verifying overlay attach ...
+[19.11.2026 15:20:43,14] OK   inject done. Insert = menu, End = unload.
